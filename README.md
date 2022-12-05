@@ -1,6 +1,11 @@
 # API_python
  API utilizando o python
 
+## Terminal
+
+    cd "diretório-escolhido"
+    git clone https://github.com/AtilaAlvesRodrigues/python_com_postgres.git
+
 # 1. Objetivo - Criar um api que disponibiliza a consulta, criaçção, edição e exclusão de livros.
 # 2. URL base - localhost
 # 3. Endpoints- 
