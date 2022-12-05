@@ -1,5 +1,5 @@
 # API_python
- API utilizando o python
+ API utilizando o python e postman.
 
 ## Terminal
 
